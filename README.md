@@ -17,6 +17,11 @@ Feel free to connect with me!
 - **[Spring Security JWT Auth](https://github.com/Damian34/spring-security-jwt-auth)**  
   A template project showcasing the integration of **JWT authentication** with **Spring Security**. The project uses **Docker Compose** to deploy the application and database.
 
+- **[CI/CD Semantic Versioning Dual Pipeline Template](https://github.com/Damian34/ci-cd-dual-pipeline-dev-prod-release-template)**  
+  A template repository for automating **semantic versioning** in **Java/Maven** projects using **GitHub Actions**.  
+  It includes ready-to-use pipelines for both development and production flows. The setup supports automatic *SNAPSHOT* removal, version bumping, and Git commits.  
+  Multiple workflow variants are included to support different manual use cases, such as interactive input selection or fully predefined execution logic, with Git CI or Git tags.
+
 - **[Family REST API](https://github.com/Damian34/family-app)**  
   A simple **Spring Boot** REST API for basic CRUD operations. It allows users to interact with a database through HTTP requests (GET/POST) to store and retrieve data. Docker Compose is used to containerize the application and the database.
 
