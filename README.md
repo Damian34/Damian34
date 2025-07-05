@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Damian34&color=0E75B6)
-
 ## Hi there 👋
 
 🔭 I'm a Java Developer with a background in mathematics and software engineering.  
