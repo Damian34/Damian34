@@ -17,17 +17,17 @@ Feel free to connect with me!
   along with exercise Kubernetes deployment scripts, reflecting extensive hands-on experimentation starting with Minikube
   as well as on Docker Desktop Kubernetes for a more production-like environment.
 
-- **[Git Repository Reader](https://github.com/Damian34/git-repository-reader)**  
-  
-  A Docker-based application with two services, integrated with **Apache Kafka** and using Docker Compose for easy deployment.  
-  The project began as an attempt to process data from Git repositories and build communication between services using a message queue.  
-  Parsing Git structure turned out to be more complex than expected, so I focused on service separation, Kafka integration, and the **Circuit Breaker** pattern.  
-  Although the concept is not fully complete, it still demonstrates work with **microservices architecture**, **event-driven** communication, containerization and **MongoDB**.
-
 - **[Spring Security JWT Auth](https://github.com/Damian34/spring-security-jwt-auth)**  
   
   A template project showcasing the integration of **JWT authentication** with **Spring Security**.
   The project uses Docker Compose to deploy the application and database.
+
+- **[Git Repository Reader](https://github.com/Damian34/git-repository-reader)**
+
+  A Docker-based application with two services, integrated with **Apache Kafka** and using Docker Compose for easy deployment.  
+  The project began as an attempt to process data from Git repositories and build communication between services using a message queue.  
+  Parsing Git structure turned out to be more complex than expected, so I focused on service separation, Kafka integration, and the **Circuit Breaker** pattern.  
+  Although the concept is not fully complete, it still demonstrates work with **microservices architecture**, **event-driven** communication, containerization and **MongoDB**.
 
 - **[CI/CD Semantic Versioning Dual Pipeline Template](https://github.com/Damian34/ci-cd-dual-pipeline-dev-prod-release-template)**  
   
