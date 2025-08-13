@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-🔭 I'm a Java Developer with a background in mathematics and software engineering.  
-🌱 My journey started with C/C++ during university, then gradually moved toward Java, Android, databases, and eventually Spring Boot.  
+🔭 I'm a Java Developer with a background in mathematics.
+🌱 My programming journey began with C/C++ at university, later evolving toward Java, Android, databases, and Spring Boot.
 💡 I enjoy solving complex problems and developing scalable backend applications.
-🛠️ Currently, I'm deepening my expertise in modern Java technologies while seeking best practices.
+🛠️ Currently, I'm expanding my knowledge of modern Java technologies and exploring best practices.
 
 Feel free to connect with me!
 
@@ -22,22 +22,11 @@ Feel free to connect with me!
   A template project showcasing the integration of **JWT authentication** with **Spring Security**.
   The project uses Docker Compose to deploy the application and database.
 
-- **[Git Repository Reader](https://github.com/Damian34/git-repository-reader)**
-
-  A Docker-based application with two services, integrated with **Apache Kafka** and using Docker Compose for easy deployment.  
-  The project began as an attempt to process data from Git repositories and build communication between services using a message queue.  
-  Parsing Git structure turned out to be more complex than expected, so I focused on service separation, Kafka integration, and the **Circuit Breaker** pattern.  
-  Although the concept is not fully complete, it still demonstrates work with **microservices architecture**, **event-driven** communication, containerization and **MongoDB**.
-
 - **[CI/CD Semantic Versioning Dual Pipeline Template](https://github.com/Damian34/ci-cd-dual-pipeline-dev-prod-release-template)**  
   
   A template repository for automating **semantic versioning** in **Java/Maven** projects using **GitHub Actions**.  
   It includes ready-to-use pipelines for both development and production flows. The setup supports automatic *SNAPSHOT* removal, version bumping, and Git commits.  
   Multiple workflow variants are included to support different manual use cases, such as interactive input selection or fully predefined execution logic, with Git CI or Git tags.
-
-- **[Family REST API](https://github.com/Damian34/family-app)**  
-  A simple Spring Boot REST API for basic CRUD operations. It allows users to interact with a database through HTTP requests (GET/POST) to store and retrieve data.
-  Docker Compose is used to containerize the application and the database.
 
 ## 🔧 My tech stack:
 
